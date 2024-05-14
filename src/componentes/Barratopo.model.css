@@ -1,0 +1,17 @@
+.topo{
+   padding: 20px;
+   margin-left: 200px;
+   color: red;
+   background-color: aquamarine;
+}
+
+h1 {
+   color: red;
+}
+
+#navbar {
+text-align: right;
+justify-content: space-between;
+padding-right: 10%;
+
+}
